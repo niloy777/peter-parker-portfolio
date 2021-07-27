@@ -11,12 +11,13 @@ h1{
 p{
     color: gray;
 }
-section{
+.flexible-container{
     display: flex;
 }
 .half-width{
   width: 50%;
   padding-left: 2%;
+  
 }
 .half-width img{
     width: 70%;
