@@ -41,3 +41,6 @@ section{
 .developer{
  color: orange;
 }
+footer p {
+    text-align: center;
+}
